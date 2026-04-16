@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Currently Learning
+I'm Currently working on [CodAnime](https://codanime.net)
 
 ## 🌐 Socials:
 
